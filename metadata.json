@@ -1,0 +1,5 @@
+{
+  "name": "NewsIntel",
+  "description": "Dynamic Root Cause Intelligence from News using NLP. Automatically analyze news articles to detect events, identify root causes, and build a dynamic knowledge map.",
+  "requestFramePermissions": []
+}
